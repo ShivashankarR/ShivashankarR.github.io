@@ -394,7 +394,8 @@
         "Gulp.js",
         "Grunt.js",
         "Immutable.js",
-        "Reselect.js"
+        "Reselect.js",
+        "enzyme.js"
       ]
     },
     {
@@ -457,10 +458,16 @@
   "certification": [
     {
       "name": "Oracle Certified Java 6 Developer",
-      "year": "2011 - 2012"
+      "year": "2010 - 2011"
     },{
       "name":"SAFe® 4 Practitioner Certification",
       "year":"2016 - 2017"
+    },{
+      "name":"JEE Technology 101 Certification",
+      "year":"2011 - 2012"
+    },{
+      "name":"JEE Technology 201 Certification",
+      "year":"2011 - 2012"
     }
   ],
   "recognition": [
