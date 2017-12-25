@@ -330,6 +330,8 @@
       "url": "https://www.hotschedules.com/",
       "description": [
         "Successfully implemented IoT in one of the HotSchedule's product which continuously receives data from vast variety of Systems across United States",
+        "We divided our application into 4 layers, i.e IoT Devices, IoT Gateway, Data Agrregate cum pre-processing, cloud cum data analytics layer",
+        "I extensively worked on data aggregate layer as it contains heavy-duty data mapping engine in it.",
         "Automated parsing of data from different file formats and storing in NoSQL database(MongoDB) using Node.js middleware",
         "Presented data to the client using D3.js Charts and Ag-Grid"
       ],
