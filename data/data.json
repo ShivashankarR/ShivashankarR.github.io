@@ -40,6 +40,15 @@
       ]
     },
     {
+      "company": "HotSchedules, Inc",
+      "id":"HotSchedulesInc",
+      "skills": [
+        "Raspberry Pi",
+        "Industrial IoT Platform",
+        "Node.js"
+      ]
+    },
+    {
       "company": "Citi Bank, North America",
       "id":"CitiBank",
       "url":"",
@@ -335,7 +344,7 @@
         "Automated parsing of data from different file formats and storing in NoSQL database(MongoDB) using Node.js middleware",
         "Presented data to the client using D3.js Charts and Ag-Grid"
       ],
-      "technologies":["Node.js","Express.js","AWS", "MongoDB","Angular.js", "Ag-Grid", "D3.js","HTML5","CSS3","Passport.js","bcrypt.js","Amazon EMR(Cloud based analytics engine)","Nginx WAF(Web Application Firewall)","Express-JWT(JSONWebToken)"]
+      "technologies":["IoT Platform", "Raspbian OS", "Raspberry Pi","Node.js","Express.js","AWS", "MongoDB","Angular.js", "Ag-Grid", "D3.js","HTML5","CSS3","Passport.js","bcrypt.js","Amazon EMR(Cloud based analytics engine)","Nginx WAF(Web Application Firewall)","Express-JWT(JSONWebToken)"]
     },
     {
       "name": "Staples Business Advantage",
