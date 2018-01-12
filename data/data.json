@@ -217,6 +217,7 @@
       "techs": [
         "React.js",
         "Redux.js",
+        "React-router.js",
         "Jest.js",
         "Node.js",
         "MongoDB",
@@ -247,13 +248,15 @@
       "techs": [
         "Angular.js",
         "Ag-Grid.js",
+        "ui-router.js",
         "D3.js",
         "Gulp.js",
         "Sass",
         "HTML5",
         "CSS3",
         "Bootstrap.js",
-        "IVHTreeView.js"
+        "IVHTreeView.js",
+        "animate.css"
       ]
     },
     {
