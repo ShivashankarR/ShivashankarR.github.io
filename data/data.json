@@ -29,74 +29,49 @@
   ],
   "portfolios": [
     {
+      "company": "HSBC Software Development Center, Pune",
+      "id": "hsbc",
+      "skills": ["React.js", "Node.js", "DynamoDB", "ES6", "ES7"]
+    },
+    {
       "company": "Wipro Technologies",
-      "id":"WiproTechnologies",
-      "skills": [
-        "React.js",
-        "Node.js",
-        "MongoDB",
-        "ES6",
-        "ES7"
-      ]
+      "id": "WiproTechnologies",
+      "skills": ["React.js", "Node.js", "MongoDB", "ES6", "ES7"]
     },
     {
       "company": "HotSchedules, Inc",
-      "id":"HotSchedulesInc",
-      "skills": [
-        "Raspberry Pi",
-        "Industrial IoT Platform",
-        "Node.js"
-      ]
+      "id": "HotSchedulesInc",
+      "skills": ["Raspberry Pi", "Industrial IoT Platform", "Node.js"]
     },
     {
       "company": "Citi Bank, North America",
-      "id":"CitiBank",
-      "url":"",
-      "skills": [
-        "Angular.js",
-        "Ag-Grid.js",
-        "D3.js",
-        "Gulp.js"
-      ]
+      "id": "CitiBank",
+      "url": "",
+      "skills": ["Angular.js", "Ag-Grid.js", "D3.js", "Gulp.js"]
     },
     {
       "company": "Siemens Industry Software",
-      "id":"SiemensIndustrySoftware",
-      "url":"",
-      "skills": [
-        "JavaScript",
-        "HTML 5",
-        "Sass",
-        "Chart.js"
-      ]
+      "id": "SiemensIndustrySoftware",
+      "url": "",
+      "skills": ["JavaScript", "HTML 5", "Sass", "Chart.js"]
     },
     {
       "company": "Steria India Limited",
-      "id":"SteriaIndiaLimited",
-      "url":"",
-      "skills": [
-        "JavaScript",
-        "jQuery",
-        "Bootstrap.js",
-        "HTML5 Video API"
-      ]
+      "id": "SteriaIndiaLimited",
+      "url": "",
+      "skills": ["JavaScript", "jQuery", "Bootstrap.js", "HTML5 Video API"]
     },
     {
       "company": "Infosys Technologies",
-      "id":"InfosysTechnologies",
-      "url":"",
-      "skills": [
-        "Java 6",
-        "Spring 2",
-        "IBM WebSphere",
-        "JMS"
-      ]
+      "id": "InfosysTechnologies",
+      "url": "",
+      "skills": ["Java 6", "Spring 2", "IBM WebSphere", "JMS"]
     }
   ],
   "experience1": [
     {
       "name": "React.js",
-      "no": 2
+      "no": 6
     },
     {
       "name": "Angular.js",
@@ -104,19 +79,19 @@
     },
     {
       "name": "JavaScript",
-      "no": 7
+      "no": 12
     },
     {
       "name": "ES6",
-      "no": 2
+      "no": 6
     },
     {
       "name": "Node.js",
-      "no": 3
+      "no": 6
     },
     {
       "name": "HTML 5",
-      "no": 5
+      "no": 10
     },
     {
       "name": "Gulp.js",
@@ -124,34 +99,34 @@
     },
     {
       "name": "Jest.js",
-      "no": 2
+      "no": 6
     },
     {
       "name": "MongoDB",
-      "no": 3
-    },
-    {
-      "name": "D3.js",
       "no": 5
     },
     {
+      "name": "D3.js",
+      "no": 7
+    },
+    {
       "name": "Material UI",
-      "no": 2
+      "no": 6
     },
 
     {
       "name": "Git",
-      "no": 3
+      "no": 7
     },
     {
       "name": "Java 6",
       "no": 2
     }
   ],
-  "experience2":[
+  "experience2": [
     {
       "name": "Redux.js",
-      "no": 2
+      "no": 6
     },
     {
       "name": "Angular 2+",
@@ -190,8 +165,8 @@
       "no": 2
     },
     {
-      "name":"Bootstrap.js",
-      "no":2
+      "name": "Bootstrap.js",
+      "no": 2
     },
     {
       "name": "Python 3",
@@ -201,12 +176,46 @@
   "employment": [
     {
       "role": "Senior Lead Developer (Full-Stack)",
+      "company": "HSBC Software Development Center, Pune",
+      "id": "hsbc",
+      "url": "https://www.hsbc.co.in/",
+      "client": "HSBC, UK",
+      "curl": "https://www.hsbc.co.uk/",
+      "range": "2018 - still working",
+      "project": [
+        "Managed end to end delivery of 3 PODs. ",
+        "Succesffully Delivered projected within given timelines.",
+        "Design and development of scalable, cross-browser, cross-device compatible applications",
+        "Worked closely with the business analysts, product owners and design teams to redesign and implement",
+        "Authored standard-compliant code with focus on best practices, scalability, performance and improved accessibility.",
+        "Maintained high-level control over the architecture and made sure that it evolved in the right direction when new challenges appeared.",
+        "Set up continuous delivery and Scrum workflow. Helped with developer interviews and supported the team to get off the ground."
+      ],
+      "techs": [
+        "React.js",
+        "Redux.js",
+        "React-router.js",
+        "Jest.js",
+        "Node.js",
+        "MongoDB",
+        "ES6",
+        "ES7",
+        "JavaScript",
+        "SVN",
+        "Scaled Agile",
+        "Angular 2+",
+        "TypeScript.js",
+        "Jasmine.js"
+      ]
+    },
+    {
+      "role": "Senior Lead Developer (Full-Stack)",
       "company": "Wipro Technologies",
-      "id":"WiproTechnologies",
-      "url":"https://www.wipro.com/en-IN/",
+      "id": "WiproTechnologies",
+      "url": "https://www.wipro.com/en-IN/",
       "client": "Credit Suisse, Switzerland",
-      "curl":"https://www.credit-suisse.com/ch/en.html",
-      "range": "2015 - 2017",
+      "curl": "https://www.credit-suisse.com/ch/en.html",
+      "range": "2015 - 2018",
       "project": [
         "Design and development of scalable, cross-browser, cross-device compatible applications (Desktop & Tablet) ",
         "Worked closely with the business analysts, product owners and design teams to redesign and implement",
@@ -234,10 +243,10 @@
     {
       "role": "Lead Developer (Full-Stack)",
       "company": "Citi Bank, North America",
-      "url":"https://www.citicorpfinance.co.in/CFIL/citicorpfinance.htm",
-      "id":"CitiBank",
+      "url": "https://www.citicorpfinance.co.in/CFIL/citicorpfinance.htm",
+      "id": "CitiBank",
       "client": "Citi Bank, North America",
-      "curl":"http://www.citigroup.com/citi/about/countrypresence/united-states-usa.html",
+      "curl": "http://www.citigroup.com/citi/about/countrypresence/united-states-usa.html",
       "range": "2013 - 2015",
       "project": [
         "Redesigned and developed rich, custom presentation layer for Citi Private Banking portfolio for account opening process and forms storing and retrieval system",
@@ -262,9 +271,9 @@
     {
       "role": "Senior Software Consultant (Front-End)",
       "company": "Siemens Industry Software Pvt. Ltd.",
-      "url":"https://www.plm.automation.siemens.com/global/en/",
-      "curl":"https://www.daimler.com/en/",
-      "id":"SiemensIndustrySoftware",
+      "url": "https://www.plm.automation.siemens.com/global/en/",
+      "curl": "https://www.daimler.com/en/",
+      "id": "SiemensIndustrySoftware",
       "client": "Daimler AG, Germany",
       "range": "2011 - 2013",
       "project": [
@@ -288,9 +297,9 @@
     {
       "role": "Senior Software Developer (Front-End)",
       "company": "Steria India Limited",
-      "url":"http://www.soprasteria.in/en",
-      "curl":"https://www.barclaycard.co.uk/personal",
-      "id":"SteriaIndiaLimited",
+      "url": "http://www.soprasteria.in/en",
+      "curl": "https://www.barclaycard.co.uk/personal",
+      "id": "SteriaIndiaLimited",
       "client": " Barclaycard, UK",
       "range": "2011 - 2012",
       "project": [
@@ -311,9 +320,9 @@
     {
       "role": "Software Developer (Java + UI Developer)",
       "company": "Infosys Technologies",
-      "url":"https://www.infosys.com/",
-      "curl":"http://www.lexisnexis.co.in/en-in/home.page",
-      "id":"InfosysTechnologies",
+      "url": "https://www.infosys.com/",
+      "curl": "http://www.lexisnexis.co.in/en-in/home.page",
+      "id": "InfosysTechnologies",
       "client": "LexisNexis, US",
       "range": "2008 - 2011",
       "project": [
@@ -347,7 +356,25 @@
         "Automated parsing of data from different file formats and storing in NoSQL database(MongoDB) using Node.js middleware",
         "Presented data to the client using D3.js Charts and Ag-Grid"
       ],
-      "technologies":["IoT Platform", "Raspbian OS", "Raspberry Pi","Node.js","Express.js","AWS", "MongoDB","Angular.js", "Ag-Grid", "D3.js","HTML5","CSS3","Passport.js","bcrypt.js","Amazon EMR(Cloud based analytics engine)","Nginx WAF(Web Application Firewall)","Express-JWT(JSONWebToken)"]
+      "technologies": [
+        "IoT Platform",
+        "Raspbian OS",
+        "Raspberry Pi",
+        "Node.js",
+        "Express.js",
+        "AWS",
+        "MongoDB",
+        "Angular.js",
+        "Ag-Grid",
+        "D3.js",
+        "HTML5",
+        "CSS3",
+        "Passport.js",
+        "bcrypt.js",
+        "Amazon EMR(Cloud based analytics engine)",
+        "Nginx WAF(Web Application Firewall)",
+        "Express-JWT(JSONWebToken)"
+      ]
     },
     {
       "name": "Staples Business Advantage",
@@ -358,7 +385,7 @@
         "Millions of people consume same web pages across the world using different devices",
         "Developed cross-browser, cross-device compatible web page for Staples Business Advantages portal"
       ],
-      "technologies":["HTML 5","CSS3","JavaScript","jQuery","Ajax","JSON"]
+      "technologies": ["HTML 5", "CSS3", "JavaScript", "jQuery", "Ajax", "JSON"]
     }
   ],
   "skills": [
@@ -428,41 +455,26 @@
     },
     {
       "name": "Platforms",
-      "list": [
-        "Mac OS X",
-        "Linux",
-        "Windows 7"
-      ]
+      "list": ["Mac OS X", "Linux", "Windows 7"]
     },
     {
       "name": "Misc",
       "list": [
         "Back-end Development",
-        "SVG", "CANVAS",
+        "SVG",
+        "CANVAS",
         "CSS Preprocessors",
         "Front-end Architecture",
         "Node Inspector"
-
       ]
     },
     {
       "name": "Storage",
-      "list": [
-        "NoSQL",
-        "MongoDB",
-        "MySQL"
-      ]
+      "list": ["NoSQL", "MongoDB", "MySQL"]
     },
     {
-      "name":"Tools",
-      "list":[
-        "Git",
-        "SVN",
-        "JIRA",
-        "TeamCity",
-        "Intellij IDEA (WebStorm)"
-
-      ]
+      "name": "Tools",
+      "list": ["Git", "SVN", "JIRA", "TeamCity", "Intellij IDEA (WebStorm)"]
     }
   ],
   "education": [
@@ -476,18 +488,19 @@
     {
       "name": "Oracle Certified Java 6 Developer",
       "year": "2010 - 2011"
-    },{
-      "name":"SAFe® 4 Practitioner Certification",
-      "year":"2016 - 2017"
-    },{
-      "name":"JEE Technology 101 Certification",
-      "year":"2011 - 2012"
-    },{
-      "name":"JEE Technology 201 Certification",
-      "year":"2011 - 2012"
+    },
+    {
+      "name": "SAFe® 4 Practitioner Certification",
+      "year": "2016 - 2017"
+    },
+    {
+      "name": "JEE Technology 101 Certification",
+      "year": "2011 - 2012"
+    },
+    {
+      "name": "JEE Technology 201 Certification",
+      "year": "2011 - 2012"
     }
   ],
-  "recognition": [
-    ""
-  ]
+  "recognition": [""]
 }
