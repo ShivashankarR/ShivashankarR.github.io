@@ -3,13 +3,12 @@
     "JavaScript",
     "React.js",
     "Redux.js",
-    "JSX",
+    "Node.js",
+    "MongoDB",
+    "DynamoDB",
     "Jest.js",
     "Material UI",
-    "React-Bootstrap",
-    "Node.js",
     "Express.js",
-    "MongoDB",
     "ES6",
     "ES7",
     "Angular.js",
@@ -21,11 +20,9 @@
     "jQuery",
     "Java 6",
     "Python 3",
-    "Gulp.js",
-    "Grunt.js",
     "HTML 5",
     "CSS3",
-    "Photoshop"
+    "AWS"
   ],
   "portfolios": [
     {
@@ -485,6 +482,10 @@
     }
   ],
   "certification": [
+    {
+      "name": "AWS Certified Solutions Architect - Associate",
+      "year": "2022 - 2023"
+    },
     {
       "name": "Oracle Certified Java 6 Developer",
       "year": "2010 - 2011"
